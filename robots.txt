@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://awwalulhidayatunnizar.github.io/sitemap.xml
